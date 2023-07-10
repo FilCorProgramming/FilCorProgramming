@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FilCorProgramming
-- 👀 I’m interested in python and c++
-- 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @FilippoCorrentini
+- 👀 I learned c++, python and java
+- 🌱 I’m currently learning c++ and Java
+- 💞️ I’m looking to collaborate on ... Digitalsoft
 - 📫 How to reach me correntinifilippo@gmail.com
 
 
